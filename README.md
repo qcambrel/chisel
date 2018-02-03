@@ -1,13 +1,13 @@
-### Spiders
+# Spiders
 
 A start to a web spider that retrieves articles on biological anthropology.
 
-# Requirements
+### Requirements
 
 * Requests
 * Beautiful Soup 4
 
-# Possible Additions
+### Possible Additions
 
 * Scrapy
 * Selenium
