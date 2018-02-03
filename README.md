@@ -1,4 +1,4 @@
-# Spiders
+# Chisel
 
 A start to a web spider that retrieves articles on biological anthropology.
 
